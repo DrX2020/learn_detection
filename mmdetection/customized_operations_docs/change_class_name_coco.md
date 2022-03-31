@@ -1,0 +1,1 @@
+运行mmdetection/tools/customized_tools/change_class_name_coco.py，路径修改正确即可
